@@ -1,6 +1,6 @@
-import {useState} from "react";
+// import {useState} from "react";
 
-export default function PokemonList({pokemon}) {
+export default function PokemonList({ pokemon }) {
 
     return (
         <div>
